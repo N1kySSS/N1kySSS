@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/0e/5c/b3/0e5cb31168e672dd79c37fdb52cbc31f.gif)
+![картинка](https://i.pinimg.com/originals/0e/5c/b3/0e5cb31168e672dd79c37fdb52cbc31f.gif)
 ### Hi there 👋
 ### I’m currently learning Kotlin 🌱
 
